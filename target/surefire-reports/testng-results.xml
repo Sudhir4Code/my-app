@@ -2,7 +2,7 @@
 <testng-results ignored="9" total="14" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-01-13T12:17:18 IST" name="Suite" finished-at="2020-01-13T12:17:18 IST" duration-ms="61">
+  <suite started-at="2020-01-13T13:31:48 IST" name="Suite" finished-at="2020-01-13T13:31:48 IST" duration-ms="65">
     <groups>
       <group name="functional">
         <method signature="WebTest.WTest1()[pri:0, instance:com.sdk.testng.WebTest@51931956]" name="WTest1" class="com.sdk.testng.WebTest"/>
@@ -23,25 +23,25 @@
         <method signature="WebTest.WTest5()[pri:0, instance:com.sdk.testng.WebTest@51931956]" name="WTest5" class="com.sdk.testng.WebTest"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2020-01-13T12:17:18 IST" name="Test" finished-at="2020-01-13T12:17:18 IST" duration-ms="61">
+    <test started-at="2020-01-13T13:31:48 IST" name="Test" finished-at="2020-01-13T13:31:48 IST" duration-ms="65">
       <class name="com.sdk.testng.WebTest">
-        <test-method signature="WTest1()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T12:17:18 IST" name="WTest1" finished-at="2020-01-13T12:17:18 IST" duration-ms="4" status="PASS">
+        <test-method signature="WTest1()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T13:31:48 IST" name="WTest1" finished-at="2020-01-13T13:31:48 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WTest1 -->
-        <test-method signature="WTest2()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T12:17:18 IST" name="WTest2" finished-at="2020-01-13T12:17:18 IST" duration-ms="0" status="PASS">
+        <test-method signature="WTest2()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T13:31:48 IST" name="WTest2" finished-at="2020-01-13T13:31:48 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WTest2 -->
-        <test-method signature="WTest3()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T12:17:18 IST" name="WTest3" finished-at="2020-01-13T12:17:18 IST" duration-ms="0" status="PASS">
+        <test-method signature="WTest3()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T13:31:48 IST" name="WTest3" finished-at="2020-01-13T13:31:48 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WTest3 -->
-        <test-method signature="WTest4()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T12:17:18 IST" name="WTest4" finished-at="2020-01-13T12:17:18 IST" duration-ms="0" status="PASS">
+        <test-method signature="WTest4()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T13:31:48 IST" name="WTest4" finished-at="2020-01-13T13:31:48 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WTest4 -->
-        <test-method signature="WTest5()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T12:17:18 IST" name="WTest5" finished-at="2020-01-13T12:17:18 IST" duration-ms="1" status="PASS">
+        <test-method signature="WTest5()[pri:0, instance:com.sdk.testng.WebTest@51931956]" started-at="2020-01-13T13:31:48 IST" name="WTest5" finished-at="2020-01-13T13:31:48 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WTest5 -->
