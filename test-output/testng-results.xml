@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="207" started-at="2020-01-13T06:22:01Z" finished-at="2020-01-13T06:22:02Z">
+    <groups>
+      <group name="functional">
+        <method signature="DesktopTest.DTest1()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest1" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest2()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest2" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest3()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest3" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest4()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest4" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest5()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest5" class="com.sdk.testng.DesktopTest"/>
+        <method signature="MobileTest.MTest1()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest1" class="com.sdk.testng.MobileTest"/>
+        <method signature="MobileTest.MTest2()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest2" class="com.sdk.testng.MobileTest"/>
+        <method signature="MobileTest.MTest3()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest3" class="com.sdk.testng.MobileTest"/>
+        <method signature="MobileTest.MTest4()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest4" class="com.sdk.testng.MobileTest"/>
+        <method signature="WebTest.WTest1()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest1" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest2()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest2" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest3()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest3" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest4()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest4" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest5()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest5" class="com.sdk.testng.WebTest"/>
+      </group> <!-- functional -->
+      <group name="deskop">
+        <method signature="DesktopTest.DTest1()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest1" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest2()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest2" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest3()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest3" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest4()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest4" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest5()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest5" class="com.sdk.testng.DesktopTest"/>
+      </group> <!-- deskop -->
+      <group name="web">
+        <method signature="WebTest.WTest1()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest1" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest2()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest2" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest3()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest3" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest4()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest4" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest5()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest5" class="com.sdk.testng.WebTest"/>
+      </group> <!-- web -->
+      <group name="smoke">
+        <method signature="DesktopTest.DTest1()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest1" class="com.sdk.testng.DesktopTest"/>
+        <method signature="DesktopTest.DTest5()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest5" class="com.sdk.testng.DesktopTest"/>
+        <method signature="MobileTest.MTest1()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest1" class="com.sdk.testng.MobileTest"/>
+        <method signature="MobileTest.MTest4()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest4" class="com.sdk.testng.MobileTest"/>
+        <method signature="WebTest.WTest1()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest1" class="com.sdk.testng.WebTest"/>
+        <method signature="WebTest.WTest5()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest5" class="com.sdk.testng.WebTest"/>
+      </group> <!-- smoke -->
+      <group name="mobile">
+        <method signature="MobileTest.MTest1()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest1" class="com.sdk.testng.MobileTest"/>
+        <method signature="MobileTest.MTest2()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest2" class="com.sdk.testng.MobileTest"/>
+        <method signature="MobileTest.MTest3()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest3" class="com.sdk.testng.MobileTest"/>
+        <method signature="MobileTest.MTest4()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest4" class="com.sdk.testng.MobileTest"/>
+      </group> <!-- mobile -->
+    </groups>
+    <test name="Test" duration-ms="207" started-at="2020-01-13T06:22:01Z" finished-at="2020-01-13T06:22:02Z">
+      <class name="com.sdk.testng.MobileTest">
+        <test-method status="PASS" signature="MTest1()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest1" duration-ms="10" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MTest1 -->
+        <test-method status="PASS" signature="MTest2()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest2" duration-ms="11" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MTest2 -->
+        <test-method status="PASS" signature="MTest3()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest3" duration-ms="2" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MTest3 -->
+        <test-method status="PASS" signature="MTest4()[pri:0, instance:com.sdk.testng.MobileTest@6cc4c815]" name="MTest4" duration-ms="5" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MTest4 -->
+      </class> <!-- com.sdk.testng.MobileTest -->
+      <class name="com.sdk.testng.DesktopTest">
+        <test-method status="PASS" signature="DTest1()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest1" duration-ms="14" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DTest1 -->
+        <test-method status="PASS" signature="DTest2()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest2" duration-ms="2" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DTest2 -->
+        <test-method status="PASS" signature="DTest3()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest3" duration-ms="9" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DTest3 -->
+        <test-method status="PASS" signature="DTest4()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest4" duration-ms="12" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DTest4 -->
+        <test-method status="PASS" signature="DTest5()[pri:0, instance:com.sdk.testng.DesktopTest@56f4468b]" name="DTest5" duration-ms="2" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DTest5 -->
+      </class> <!-- com.sdk.testng.DesktopTest -->
+      <class name="com.sdk.testng.WebTest">
+        <test-method status="PASS" signature="WTest1()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest1" duration-ms="9" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WTest1 -->
+        <test-method status="PASS" signature="WTest2()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest2" duration-ms="14" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WTest2 -->
+        <test-method status="PASS" signature="WTest3()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest3" duration-ms="2" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WTest3 -->
+        <test-method status="PASS" signature="WTest4()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest4" duration-ms="2" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WTest4 -->
+        <test-method status="PASS" signature="WTest5()[pri:0, instance:com.sdk.testng.WebTest@3a82f6ef]" name="WTest5" duration-ms="2" started-at="2020-01-13T06:22:02Z" finished-at="2020-01-13T06:22:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WTest5 -->
+      </class> <!-- com.sdk.testng.WebTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

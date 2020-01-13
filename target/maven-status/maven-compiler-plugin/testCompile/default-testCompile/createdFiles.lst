@@ -1,0 +1,3 @@
+com\sdk\testng\DesktopTest.class
+com\sdk\testng\MobileTest.class
+com\sdk\testng\WebTest.class
